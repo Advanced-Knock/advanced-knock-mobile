@@ -1,0 +1,23 @@
+{
+  "commands": {
+    "Start Dev Server": {
+      "command": "npm run dev:tunnel",
+      "description": "Start Expo dev server with tunnel mode for remote access"
+    },
+    "Start Web Version": {
+      "command": "npm run dev:web",
+      "description": "Start Expo web version for fastest iteration"
+    },
+    "Remote Dev Setup": {
+      "command": "npm run dev:remote",
+      "description": "Setup remote dev environment for Hudson + AbëONE"
+    },
+    "Quick Dev": {
+      "command": "./dev-workflow.sh",
+      "description": "Zero-friction dev workflow with hot reload"
+    }
+  }
+}
+
+
+

@@ -1,0 +1,30 @@
+name: Universal Diagnostic
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Run Universal Diagnostic
+        run: |
+          node universal-diagnostic.js
+      
+      - name: Upload Diagnostic Report
+        uses: actions/upload-artifact@v3
+        with:
+          name: diagnostic-report
+          path: .diagnostic-report.json
+

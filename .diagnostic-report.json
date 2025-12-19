@@ -1,0 +1,588 @@
+{
+  "errors": [
+    {
+      "message": "Missing file: ./src/screens/HomeScreen",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/App.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./src/screens/MapScreen",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/App.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./src/screens/KnockScreen",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/App.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./src/screens/LeadsScreen",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/App.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./src/screens/CoursePersonaProCoachScreen",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/App.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./src/screens/ProfileScreen",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/App.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./src/screens/LeadDetailScreen",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/App.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./src/types/navigation",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/App.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./App",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/index.js",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./index",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/ColorPaletteDemo.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./types",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/ThemeProvider.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./colors",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/ThemeProvider.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./animations",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/ThemeProvider.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./types",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/animations.ts",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./types",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/colors.ts",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./types",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/index.ts",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./colors",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/index.ts",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./animations",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/index.ts",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ./ThemeProvider",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/index.ts",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../types/navigation",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/HomeScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../services/storage",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/HomeScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../types/lead",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/HomeScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../services/storage",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/KnockScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../types/lead",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/KnockScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../types/navigation",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/LeadDetailScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../services/storage",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/LeadDetailScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../types/lead",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/LeadDetailScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../types/navigation",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/LeadsScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../services/storage",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/LeadsScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../types/lead",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/LeadsScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../services/storage",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/StatsScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../types/lead",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/StatsScreen.tsx",
+      "guardian": "JOHN",
+      "severity": "error"
+    },
+    {
+      "message": "Missing file: ../types/lead",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "guardian": "JOHN",
+      "severity": "error"
+    }
+  ],
+  "warnings": [
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/HomeScreen.tsx",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/HomeScreen.tsx",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/KnockScreen.tsx",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/KnockScreen.tsx",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/LeadDetailScreen.tsx",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/LeadsScreen.tsx",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/StatsScreen.tsx",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Unsafe eval() usage detected",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/universal-diagnostic.js",
+      "guardian": "ZERO",
+      "severity": "warning"
+    },
+    {
+      "message": "Missing env var: GITHUB_ACTIONS",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/universal-diagnostic.js",
+      "guardian": "JOHN",
+      "severity": "warning"
+    },
+    {
+      "message": "Missing env var: REPL_ID",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/universal-diagnostic.js",
+      "guardian": "JOHN",
+      "severity": "warning"
+    },
+    {
+      "message": "Missing env var: REPL_SLUG",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/universal-diagnostic.js",
+      "guardian": "JOHN",
+      "severity": "warning"
+    },
+    {
+      "message": "Missing env var: VERCEL",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/universal-diagnostic.js",
+      "guardian": "JOHN",
+      "severity": "warning"
+    },
+    {
+      "message": "Missing env var: NETLIFY",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/universal-diagnostic.js",
+      "guardian": "JOHN",
+      "severity": "warning"
+    },
+    {
+      "message": "Missing env var: BOLT_ENV",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/universal-diagnostic.js",
+      "guardian": "JOHN",
+      "severity": "warning"
+    },
+    {
+      "message": "Unhandled promise - missing .catch()",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/universal-diagnostic.js",
+      "guardian": "ZERO",
+      "severity": "warning"
+    }
+  ],
+  "info": [
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/App.tsx",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/babel.config.js",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/index.js",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/metro.config.js",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/ColorPaletteDemo.tsx",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/ThemeProvider.tsx",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/animations.ts",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/colors.ts",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/index.ts",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/types.ts",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/CoursePersonaProCoachScreen.tsx",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/HomeScreen.tsx",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/KnockScreen.tsx",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/LeadDetailScreen.tsx",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/LeadsScreen.tsx",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/MapScreen.tsx",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/ProfileScreen.tsx",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/StatsScreen.tsx",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/types/lead.ts",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/types/navigation.ts",
+      "guardian": "META",
+      "severity": "info"
+    },
+    {
+      "message": "Untyped function: scanDir",
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/universal-diagnostic.js",
+      "guardian": "JOHN",
+      "severity": "info"
+    },
+    {
+      "message": {
+        "name": "Local Development",
+        "type": "local",
+        "id": "local"
+      },
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/universal-diagnostic.js",
+      "guardian": "META",
+      "severity": "info"
+    }
+  ],
+  "platform": {
+    "name": "Local Development",
+    "type": "local",
+    "id": "local"
+  },
+  "timestamp": "2025-12-05T13:06:16.486Z"
+}

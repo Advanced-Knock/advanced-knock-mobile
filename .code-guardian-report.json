@@ -1,0 +1,743 @@
+{
+  "files": [
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/App.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 16
+        }
+      ],
+      "risks": [],
+      "complexity": 214
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/babel.config.js",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [],
+      "risks": [],
+      "complexity": 8
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/code-guardian-ultimate.js",
+      "errors": [],
+      "warnings": [
+        {
+          "message": "Unsafe eval() usage detected",
+          "security": true,
+          "suggestion": "Use safer alternatives"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        }
+      ],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 4
+        },
+        {
+          "name": "UNSAFE_EVAL",
+          "count": 1
+        },
+        {
+          "name": "UNHANDLED_PROMISES",
+          "count": 5
+        }
+      ],
+      "risks": [],
+      "complexity": 444
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/index.js",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 2
+        }
+      ],
+      "risks": [],
+      "complexity": 10
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/metro.config.js",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 2
+        }
+      ],
+      "risks": [],
+      "complexity": 13
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/components/JoyEngine.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 3
+        }
+      ],
+      "risks": [],
+      "complexity": 479
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/components/PlayfulInput.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 3
+        }
+      ],
+      "risks": [],
+      "complexity": 188
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/components/VibeCodHERButton.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 3
+        }
+      ],
+      "risks": [],
+      "complexity": 141
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/components/VibeCodHERCard.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 3
+        }
+      ],
+      "risks": [],
+      "complexity": 72
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/components/VibeCodHERHero.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 4
+        }
+      ],
+      "risks": [],
+      "complexity": 110
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/components/VibeCodHERMovementCode.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 4
+        }
+      ],
+      "risks": [],
+      "complexity": 225
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/components/VibeCodHEROffers.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 6
+        }
+      ],
+      "risks": [],
+      "complexity": 190
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/components/VibeCodHERPillars.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 4
+        }
+      ],
+      "risks": [],
+      "complexity": 163
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/components/VibeCodHERStory.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 3
+        }
+      ],
+      "risks": [],
+      "complexity": 71
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/components/index.ts",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 9
+        }
+      ],
+      "risks": [],
+      "complexity": 21
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/ColorPaletteDemo.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 3
+        }
+      ],
+      "risks": [],
+      "complexity": 274
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/ThemeProvider.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 4
+        }
+      ],
+      "risks": [],
+      "complexity": 222
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/animations.ts",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 2
+        }
+      ],
+      "risks": [],
+      "complexity": 339
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/colors.ts",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 1
+        }
+      ],
+      "risks": [],
+      "complexity": 472
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/index.ts",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 4
+        }
+      ],
+      "risks": [],
+      "complexity": 24
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/types.ts",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [],
+      "risks": [],
+      "complexity": 94
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/design/vibecodherColors.ts",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [],
+      "risks": [],
+      "complexity": 63
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/CoursePersonaProCoachScreen.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 3
+        }
+      ],
+      "risks": [],
+      "complexity": 185
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/HomeScreen.tsx",
+      "errors": [],
+      "warnings": [
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        }
+      ],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 9
+        },
+        {
+          "name": "UNHANDLED_PROMISES",
+          "count": 2
+        }
+      ],
+      "risks": [],
+      "complexity": 411
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/KnockScreen.tsx",
+      "errors": [],
+      "warnings": [
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        }
+      ],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 7
+        },
+        {
+          "name": "UNHANDLED_PROMISES",
+          "count": 2
+        }
+      ],
+      "risks": [],
+      "complexity": 407
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/LeadDetailScreen.tsx",
+      "errors": [],
+      "warnings": [
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        }
+      ],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 8
+        },
+        {
+          "name": "UNHANDLED_PROMISES",
+          "count": 1
+        }
+      ],
+      "risks": [],
+      "complexity": 222
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/LeadsScreen.tsx",
+      "errors": [],
+      "warnings": [
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        }
+      ],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 8
+        },
+        {
+          "name": "UNHANDLED_PROMISES",
+          "count": 1
+        }
+      ],
+      "risks": [],
+      "complexity": 196
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/MapScreen.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 3
+        }
+      ],
+      "risks": [],
+      "complexity": 86
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/ProfileScreen.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 6
+        }
+      ],
+      "risks": [],
+      "complexity": 197
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/RevenueDashboardScreen.tsx",
+      "errors": [],
+      "warnings": [
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        }
+      ],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 6
+        },
+        {
+          "name": "UNHANDLED_PROMISES",
+          "count": 2
+        }
+      ],
+      "risks": [],
+      "complexity": 357
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/StatsScreen.tsx",
+      "errors": [],
+      "warnings": [
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        }
+      ],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 5
+        },
+        {
+          "name": "UNHANDLED_PROMISES",
+          "count": 1
+        }
+      ],
+      "risks": [],
+      "complexity": 220
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/screens/VibeCodHERScreen.tsx",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 9
+        }
+      ],
+      "risks": [],
+      "complexity": 155
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/storage.ts",
+      "errors": [],
+      "warnings": [
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        }
+      ],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 2
+        },
+        {
+          "name": "UNHANDLED_PROMISES",
+          "count": 10
+        }
+      ],
+      "risks": [],
+      "complexity": 155
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/services/subscription.ts",
+      "errors": [],
+      "warnings": [
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        }
+      ],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 2
+        },
+        {
+          "name": "UNHANDLED_PROMISES",
+          "count": 16
+        }
+      ],
+      "risks": [],
+      "complexity": 238
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/types/lead.ts",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [],
+      "risks": [],
+      "complexity": 30
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/types/navigation.ts",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [],
+      "risks": [],
+      "complexity": 17
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/src/types/subscription.ts",
+      "errors": [],
+      "warnings": [],
+      "info": [],
+      "patterns": [],
+      "risks": [],
+      "complexity": 62
+    },
+    {
+      "file": "/Users/michaelmataluni/development/projects/advancedknock/universal-diagnostic.js",
+      "errors": [],
+      "warnings": [
+        {
+          "message": "Unsafe eval() usage detected",
+          "security": true,
+          "suggestion": "Use safer alternatives"
+        },
+        {
+          "message": "Unhandled promise - missing .catch()",
+          "suggestion": "Add error handling"
+        }
+      ],
+      "info": [],
+      "patterns": [
+        {
+          "name": "MISSING_FILES",
+          "count": 7
+        },
+        {
+          "name": "UNSAFE_EVAL",
+          "count": 1
+        },
+        {
+          "name": "UNHANDLED_PROMISES",
+          "count": 1
+        }
+      ],
+      "risks": [],
+      "complexity": 451
+    }
+  ],
+  "totalErrors": 0,
+  "totalWarnings": 43,
+  "totalInfo": 0,
+  "patterns": [],
+  "healthScore": 14
+}
